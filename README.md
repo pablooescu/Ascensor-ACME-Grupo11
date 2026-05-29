@@ -1,7 +1,9 @@
-# Ascensor ACME — Control PID con Arduino
+# Ascensor ACME — Control PID con Arduino - Grupo 11
 
-**Grupo 11** | Máster en Ingeniería de Telecomunicaciones - UNIR
-Asignatura: Equipos e Instrumentación Electrónica | Curso 2025-2026
+Máster en Ingeniería de Telecomunicaciones | UNIR | Curso 2025-2026
+
+Asignatura: Equipos e Instrumentación Electrónica
+
 
 ---
 
